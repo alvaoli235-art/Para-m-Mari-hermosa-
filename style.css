@@ -1,0 +1,14 @@
+.titulo-principal {
+    text-align: center;
+    font-size: 2.8em;
+    font-family: 'Brush Script MT', cursive, 'Segoe Script', 'Comic Sans MS', sans-serif;
+    color: #e75480;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    text-shadow: 2px 2px 8px #fff0f7, 0 0 5px #e75480;
+    letter-spacing: 2px;
+    background: linear-gradient(90deg, #ffe7ef 0%, #fffde7 100%);
+    border-radius: 22px;
+    padding: 18px 0;
+    box-shadow: 0 4px 18px 0 #ffc3ea90;
+}
